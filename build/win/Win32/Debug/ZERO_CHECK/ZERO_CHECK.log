@@ -1,0 +1,8 @@
+﻿  Checking Build System
+  CMake is re-running because D:/Cpp_projects_2016/2018/kpz3_5/build/win/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/Cpp_projects_2016/2018/kpz3_5/CMakeLists.txt'
+    is newer than 'D:/Cpp_projects_2016/2018/kpz3_5/build/win/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: D:/Cpp_projects_2016/2018/kpz3_5/build/win

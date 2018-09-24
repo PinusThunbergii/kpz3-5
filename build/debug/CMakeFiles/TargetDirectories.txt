@@ -1,0 +1,3 @@
+/home/alex/c_cpp/kpz3_5/build/debug/CMakeFiles/rebuild_cache.dir
+/home/alex/c_cpp/kpz3_5/build/debug/CMakeFiles/application.dir
+/home/alex/c_cpp/kpz3_5/build/debug/CMakeFiles/edit_cache.dir
